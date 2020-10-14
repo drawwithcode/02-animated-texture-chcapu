@@ -32,7 +32,6 @@ function draw() {
 
   //velocità variabile
   vel = map(mouseX,0,width,0,10);
-
 }
 
 function generateCorpi(numero) {
